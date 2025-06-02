@@ -1,0 +1,5 @@
+prompt = "Explique o que é Inteligência Artificial de forma simples."
+resposta_simulada = "IA é a capacidade de máquinas imitarem a inteligência humana para resolver problemas e tomar decisões."
+
+print("Usuário:", prompt)
+print("Gemini respondeu:", resposta_simulada)
